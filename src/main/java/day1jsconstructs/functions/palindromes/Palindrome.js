@@ -1,5 +1,4 @@
 const readline = require("readline-sync");
-
 function isPalindrome(num) {
     let originalNum = num;
     let reversedNum = 0;
